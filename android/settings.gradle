@@ -1,0 +1,3 @@
+rootProject.name = 'faded_4681'
+
+include ':app'
